@@ -1,7 +1,7 @@
 # 🚴 Excel Bike Sales Dashboard Project
 
 ## 📌 Description
-This project is a guided Excel-based data analytics exercise that analyzes customer demographics and purchasing behavior related to bike sales. The dataset was downloaded from a public GitHub repository and used for educational purposes. The objective was to clean the data, perform segmentation, and visualize meaningful insights using Excel's analytical features.
+This is a Excel-based data analytics exercise that analyzes customer demographics and purchasing behavior related to bike sales. The dataset was downloaded from a public GitHub repository and used for educational purposes. The objective was to clean the data, perform segmentation, and visualize meaningful insights using Excel's analytical features.
 
 > ⚠️ **Note**: This is a guided project using publicly available data. All data cleaning, transformation, and dashboard design steps were executed independently, and the project is permitted for personal portfolio use.
 
