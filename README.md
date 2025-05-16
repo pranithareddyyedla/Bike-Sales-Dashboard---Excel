@@ -1,13 +1,13 @@
-# 🚴 Excel Bike Sales Dashboard Project
+Excel Bike Sales Dashboard Project
 
-## 📌 Description
+ Description
 This is a Excel-based data analytics exercise that analyzes customer demographics and purchasing behavior related to bike sales. The dataset was downloaded from a public GitHub repository and used for educational purposes. The objective was to clean the data, perform segmentation, and visualize meaningful insights using Excel's analytical features.
 
-> ⚠️ **Note**: This is a guided project using publicly available data. All data cleaning, transformation, and dashboard design steps were executed independently, and the project is permitted for personal portfolio use.
+ **Note**: This is a guided project using publicly available data. All data cleaning, transformation, and dashboard design steps were executed independently, and the project is permitted for personal portfolio use.
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+ Data Cleaning & Preparation
 - Loaded raw data into **Sheet1 – Bike_buyers**.
 - Created **Sheet2 – Working Sheet** for preprocessing:
   - Standardized values (e.g., "M" to "Married", "F" to "Female").
@@ -19,7 +19,7 @@ This is a Excel-based data analytics exercise that analyzes customer demographic
 
 ---
 
-## 📊 Analysis & Visualizations
+ Analysis & Visualizations
 - **Sheet3 – Pivot Table**:
   - Created PivotTables to analyze:
     - Average Income per Purchase
@@ -36,7 +36,7 @@ This is a Excel-based data analytics exercise that analyzes customer demographic
 
 ---
 
-## ⚙️ Tools & Techniques
+Tools & Techniques
 - Microsoft Excel
   - Data Cleaning
   - PivotTables
@@ -46,7 +46,7 @@ This is a Excel-based data analytics exercise that analyzes customer demographic
 
 ---
 
-## 📁 File Structure
+ File Structure
 - **Sheet1 – Bike_buyers**: Raw imported data
 - **Sheet2 – Working Sheet**: Cleaned and standardized dataset
 - **Sheet3 – Pivot Table**: Analytical pivot tables
@@ -54,6 +54,6 @@ This is a Excel-based data analytics exercise that analyzes customer demographic
 
 ---
 
-## 📄 License
+ License
 This project is for educational and portfolio purposes only. The dataset is from a public repository and allowed for non-commercial use.
 
